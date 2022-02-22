@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\north\eclipse-workspace\week-o\.metadata\.plugins\org.eclipse.jdt.core
+1885720650.index
+1865797976.index
+760091825.index
